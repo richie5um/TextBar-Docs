@@ -32,7 +32,7 @@ You can purchase multiple subscriptions; if you purchase a ‘3 device’ subscr
 
 ## The API
 
-TextBar Live has an API that is convenient for managing headless servers. It allows for registering devices and items from the command line.
+TextBar Live has an API that is convenient for managing headless servers and for scripting. It allows for registering devices and items from the command line.
 
 ### Registering and Activating Devices
 
