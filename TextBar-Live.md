@@ -5,9 +5,10 @@ _Date: 2016.12.26_
 ## Introduction
 TextBar Live is a cloud-hosted service from which you can see all your TextBar items on a single web page. If you have, or manage, multiple Macs this is invaluable, especially if those Macs are remotely located (perhaps somewhere like [Macminicolo](https://macminicolo.net)).
 
-TextBar Live is a paid subscription service.
-
 ## Pricing
+
+TextBar Live is a paid subscription service. Current prices are:
+
 * 1 device = $1 per month
 * 3 devices = $2 per month
 
